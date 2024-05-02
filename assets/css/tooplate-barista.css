@@ -685,7 +685,7 @@ strong {
   OUR MENU              
 -----------------------------------------*/
 .menu-section {
-  background-image: url('assets/images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.JPG');
+  background-image: url('./assets/images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.JPG');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -761,14 +761,14 @@ strong {
 }
 
 .reviews-block-image-wrap {
-  background-image: url('assets/images/happy-loving-couple-bakers-drinking-coffee-looking-notebook1.jpg');
+  background-image: url('./assets/images/happy-loving-couple-bakers-drinking-coffee-looking-notebook1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   padding: 30px;
 }
 .reviews-block-image-wrap1 {
-  background-image: url('assets/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
+  background-image: url('./assets/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -801,7 +801,7 @@ strong {
   BOOKING SECTION              
 -----------------------------------------*/
 .booking-section {
-  background-image: url('assets/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
+  background-image: url('./assets/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -850,7 +850,7 @@ strong {
   CONTACT               
 -----------------------------------------*/
 .contact-section {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(188, 108, 37, 1)), url('assets/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.JPG');
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(188, 108, 37, 1)), url('./assets/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.JPG');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
